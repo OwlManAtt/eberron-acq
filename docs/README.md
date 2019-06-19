@@ -2,7 +2,7 @@
 home: true
 heroImage: /hero.png
 actionText: Get Started →
-actionLink: /game-info.md
+actionLink: /getting-started/
 footer: MIT Licensed | Copyright © 2019 — present
 ---
 

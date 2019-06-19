@@ -7,30 +7,22 @@ module.exports = {
         editLinks: true,
 
         sidebar: [
-            /*
-            '/',
             {
-                title: '13th Age',
+                title: 'Getting Started',
                 collapsable: false,
                 children: [
                     '',
-                    'characters',
-                    'adventures',
-                ].map(page => '13th-age/' + page)
+                    'char-rules',
+                    'resources',
+                ].map(page => 'getting-started/' + page)
             },
+            /*
             {
-                title: "Forgotten Realms",
+                title: "Adventures",
                 collapsable: false,
                 children: [
-                    'forgotten-realms/',
-                    {
-                        title: "Adventures",
-                        collapsable: false,
-                        children: [
-                            'waterdeep_2019'
-                        ].map(page => 'forgotten-realms/adventures/' + page),
-                    },
-                ],
+                    'waterdeep_2019'
+                ].map(page => 'adventures/' + page),
             },
             */
         ]
