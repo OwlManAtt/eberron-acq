@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /hero.png
-actionText: Get Started →
+actionText: Learn More →
 actionLink: /getting-started/
 footer: MIT Licensed | Copyright © 2019 — present
 ---
@@ -19,7 +19,7 @@ footer: MIT Licensed | Copyright © 2019 — present
   </div>
   <div class="feature">
     <h2>Explore, Expand, Exploit, ...</h2>
-    <p>For the low fee of 20% of all earnings, the Head Office will help you build your fledging franchise into a business empire that will rival the draonmarked houses!</p>
+    <p>For the low fee of 20% of all earnings, the Head Office will help you build your fledging franchise into a business empire that will rival the dragonmarked houses!</p>
   </div>
 </div>
 
