@@ -13,7 +13,7 @@ script:
   - yarn docs:build
 
 deploy:
-  fqdn: aquisitions.spinach-inquisition.org
+  fqdn: acquisitions.spinach-inquisition.org
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
