@@ -10,13 +10,17 @@ But you won't be alone: the Head Office will (mostly) be there to support you. Y
 ## The World of Eberron
 Eberron is a world where magic is a science. With enough theory and the right materials, anyone can produce an effect with magic. Following this through to its logical conclusion: why does anyone need to invent a gun if a wooden stick and a few words can pop off a [Fireball](https://www.dndbeyond.com/spells/fireball)?
 
+There's R&D cost, tons of metal, specialized machining techniques, finicky mechanisms, upkeep, and consumables to consider. While the guaranteed return business for ammo sales would be nice, it would be a costly item that is strictly inferor to the Wand of Fireball. That's just bad business.
+
 Magic is an integral part of everything in Eberron: the economy is built around the trading of magical services. Instead of telephones, the Speakers Guild sends messages. If you need to travel, your options are a magebred horse, the Lightning Rail, or an airship powered by bound elementals. 
 
-The [Dragonmarked Houses](https://eberron.fandom.com/wiki/The_Dragonmarked_Houses) play a huge role in this: family lines who carry magical Dragonmarks have formed cartels and monopolized parts of the magical economy. At the same time, these people are wrapped up in the Draconic Prophecies and games played between the Dragons and several "big bads" than span millennia. Giving a coin to a random beggar in the street could make you an unwitting pawn in a six-thousand-year-long chess game.
+The [Dragonmarked Houses](https://eberron.fandom.com/wiki/The_Dragonmarked_Houses) play a huge role in this: family lines who carry magical Dragonmarks have formed cartels and monopolized parts of the magical economy. Their legacy wealth makes it easy for them to hold their monopolies against all comers; buying off politicians, hiring thugs, or simply deciding your operation does not meet their standards and *burning it down*.
 
-All of this magic needs fuel, and that fuel supply takes the form of [dragonshard crystals](https://eberron.fandom.com/wiki/Dragonshards).
+All of this magic needs fuel, and that fuel supply takes the form of [dragonshard crystals](https://eberron.fandom.com/wiki/Dragonshards). Finding a cache of dragonshards will make you rich; developing a supply line to sell them to the Dragonmarked houses & other magical businesses will make you a captain of industry.
 
-Eberron campaigns begin two years after [the Last War](https://eberron.fandom.com/wiki/The_Last_War). One hundred years of a bitter civil war ended in terror as the nation of Cyre was inexplicably consumed by a magical explosion on the Day of Mourning. No explanation has been found, and it remains a toxic wasteland. If any nation unlocks the mystery of the Mourning, the war would begin anew.
+Eberron campaigns begin two years after [the Last War](https://eberron.fandom.com/wiki/The_Last_War). One hundred years of a bitter civil war ended in terror as the nation of Cyre was inexplicably consumed by a magical explosion on the Day of Mourning. No explanation has been found, and it remains a toxic wasteland. If any nation unlocks the mystery of the Mourning, the war would begin anew. 
+
+Depending on what products or services you offer, this could be a *very* good thing: the military-industrial complex will need fresh materiel.
 
 [![Map of Khorvaire](https://vignette.wikia.nocookie.net/eberron/images/f/f4/D%26D_-_4th_Edition_-_Eberron_Map_Khorvaire.jpg/revision/latest?cb=20090819121531)](https://vignette.wikia.nocookie.net/eberron/images/f/f4/D%26D_-_4th_Edition_-_Eberron_Map_Khorvaire.jpg/revision/latest?cb=20090819121531)
 
