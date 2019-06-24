@@ -77,21 +77,17 @@ At certain points, your franchise will "level up" as well, and the group will ne
 ## House Rules
 I've noticed a tendency for combat to drag on and on. This isn't so bad when everyone is together at a physical table and able to bullshit, but it feels very lonely waiting for your turn with an online game. 
 
-I will introduce one house rule to speed combat along: the Escalation Die, [adapted from the 13th Age SRD](https://www.13thagesrd.com/combat-rules/#Escalation_Die).
+I will introduce one house rule to speed combat along. As DM, I reserve the right to drop this or modify it if I find it isn't producing the desired effect.
 
-As DM, I reserve the right to drop this or modify it if I find it isn't producing the desired effect.
+### Inspired Players
+You gain 3 inspiration at the start of every session. At the end of the session, you lose any unspent inspiration.
 
-### Escalation Die
-The escalation die represents a bonus to attacks as the fight goes on.
+The rules for inspiration cab be found in the PhB in chapter 4. The most salient bit:
 
-At the start of the second round, the DM sets the escalation die at 1. Players gains a bonus to attack rolls equal to the current value on the escalation die. Each round, the escalation die advances by +1, to a maximum of +4.
-
-Most monsters and NPCs do not add the escalation die bonus to their attacks (*but beware bosses or other noteworthy encounters*).
-
-If the DM judges that the characters are avoiding conflict rather than bringing the fight to the bad guys, the escalation die doesn't advance. If combat virtually ceases, the escalation die resets to 0.
+> If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll.
 
 :::tip What does this mean?
-After the first round, you get an increasing bonus to hit enemies. Hitting enemies means you will deal damage and kill them faster.
+You can re-roll missed attacks. 
 
 You are supposed to be heroes, so it's kind of embarassing for a fight to last 40 minutes because you never bothered to learn how a bow actually works.
 :::
